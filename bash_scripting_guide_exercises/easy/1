@@ -1,0 +1,20 @@
+#!/usr/bin/env sh
+# Write a script that echoes itself to stdout, but backwards.
+
+echo $0
+
+lines=()
+i=0
+while read line; do
+  #echo $line
+  lines[$i]=$line
+  (( i++ )) 
+done < $0
+
+echo ${#lines}
+ 
+i=0
+while (( $i < ${#lines} )); do
+  echo ${lines[$i]}
+  (( i++ ))
+done

@@ -1,5 +1,12 @@
-#!/bin/sh
+#!/usr/bin/env sh
+:<<FOO
+let involves arithmetic
 
-:<<NOTE
+similar to (( ))
+FOO
 
-NOTE
+let x=1+2
+echo $x
+
+
+
