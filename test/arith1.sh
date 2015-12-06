@@ -26,3 +26,8 @@ b=4
 if (( a > b )); then
   echo "true"
 fi
+
+foo=1
+ (( foo++ ))  # notice there's no need to dereference foo using $
+
+echo $foo # outputs 2
