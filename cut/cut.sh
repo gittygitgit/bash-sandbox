@@ -11,3 +11,9 @@ echo "hello" | cut -d e -f 2 # prints llo
 echo "helloelloello123" |cut -d e -f2,4 # prints lloello123 
 
 
+
+# cut characters from a file
+cut -c2-20 test.txt
+
+
+
