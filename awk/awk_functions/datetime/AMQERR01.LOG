@@ -1,0 +1,2254 @@
+04/09/2016 11:41:22 AM - Process(6531.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:41:22 AM - Process(6531.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:41:22 AM - Process(6531.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:41:32 AM - Process(7620.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:42:08 AM - Process(7620.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:42:08 AM - Process(7620.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:42:08 AM - Process(7620.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:42:32 AM - Process(8012.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:42:58 AM - Process(8012.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:42:58 AM - Process(8012.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:42:58 AM - Process(8012.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:43:32 AM - Process(8509.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:43:34 AM - Process(8509.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:43:34 AM - Process(8509.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:43:34 AM - Process(8509.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:44:32 AM - Process(9202.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:46:41 AM - Process(9202.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:46:41 AM - Process(9202.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:46:41 AM - Process(9202.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:46:51 AM - Process(10324.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:48:38 AM - Process(10324.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:48:38 AM - Process(10324.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:48:38 AM - Process(10324.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 11:48:48 AM - Process(11405.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 11:57:48 AM - Process(11405.1) User(phlxbo) Program(runmqchl)
+AMQ9526: Message sequence number error for channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The local and remote queue managers do not agree on the next message sequence
+number.  A message with sequence number 1 has been sent when sequence number
+244966 was expected. The remote host is '198.133.169.224'.
+ACTION:
+Determine the cause of the inconsistency.  It could be that the synchronization
+information has become damaged, or has been backed out to a previous version.
+If the situation cannot be resolved, the sequence number can be manually reset
+at the sending end of the channel using the RESET CHANNEL command.
+----- cmqxrfpt.c : 421 --------------------------------------------------------
+04/09/2016 11:57:48 AM - Process(11405.1) User(phlxbo) Program(runmqchl)
+AMQ9506: Message receipt confirmation failed.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' has ended because the remote queue manager did
+not accept the last batch of messages.
+ACTION:
+The error log for the channel at the remote site will contain an explanation of
+the failure. Contact the remote Systems Administrator to resolve the problem.
+----- amqrmrca.c : 858 --------------------------------------------------------
+04/09/2016 11:57:48 AM - Process(11405.1) User(phlxbo) Program(runmqchl)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'NOBO.LNX.TO.OCCB2BP' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'NOBO.LNX.TO.OCCB2BP' in
+the error files to determine the cause of the failure.
+----- amqrccca.c : 821 --------------------------------------------------------
+04/09/2016 12:04:10 PM - Process(32069.10550) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 12:04:48 PM - Process(32069.10551) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 12:04:55 PM - Process(21049.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 12:22:58 PM - Process(1089.548) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 12:22:58 PM - Process(1089.548) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 12:42:58 PM - Process(1089.571) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:00:02 PM - Process(1089.572) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:00:14 PM - Process(20615.1) User(phlxbo) Program(amqrcmla)
+AMQ9514: Channel 'PRODTRADE.TO.NSDQ' is in use.
+
+EXPLANATION:
+The requested operation failed because channel 'PRODTRADE.TO.NSDQ' is currently
+active.
+ACTION:
+Either end the channel manually, or wait for it to close, and retry the
+operation.
+----- amqrcmsa.c : 639 --------------------------------------------------------
+04/09/2016 01:01:03 PM - Process(1089.572) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:01:06 PM - Process(21049.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/09/2016 01:01:06 PM - Process(21049.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:01:11 PM - Process(32069.10568) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:01:15 PM - Process(21207.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:01:32 PM - Process(1089.573) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:02:05 PM - Process(4373.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NSDQ.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/09/2016 01:02:05 PM - Process(4373.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:02:11 PM - Process(32069.10570) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:02:16 PM - Process(21726.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:10:00 PM - Process(21207.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/09/2016 01:10:00 PM - Process(21207.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:10:12 PM - Process(21726.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NSDQ.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/09/2016 01:10:12 PM - Process(21726.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:15:09 PM - Process(1089.573) User(phlxbo) Program(amqrmppa)
+AMQ9528: User requested closure of channel 'PRODTRADE.TO.NSDQ'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/09/2016 01:15:09 PM - Process(1089.573) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:15:19 PM - Process(1089.574) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/09/2016 01:15:19 PM - Process(1089.574) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 01:15:30 PM - Process(32069.10577) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:15:37 PM - Process(32069.10577) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:15:48 PM - Process(32069.10578) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:16:19 PM - Process(1089.575) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/09/2016 01:16:19 PM - Process(1089.575) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 01:20:23 PM - Process(1089.576) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:20:23 PM - Process(1089.576) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:21:01 PM - Process(1089.577) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:23:52 PM - Process(1120.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 01:24:00 PM - Process(1415.1) User(phlxbo) Program(amqrcmla)
+AMQ9514: Channel 'PRODTRADE.TO.NSDQ' is in use.
+
+EXPLANATION:
+The requested operation failed because channel 'PRODTRADE.TO.NSDQ' is currently
+active.
+ACTION:
+Either end the channel manually, or wait for it to close, and retry the
+operation.
+----- amqrcmsa.c : 639 --------------------------------------------------------
+04/09/2016 03:01:02 PM - Process(1089.577) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 03:01:02 PM - Process(1089.577) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/09/2016 04:08:28 PM - Process(1089.546) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 04:08:28 PM - Process(1089.546) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 04:10:11 PM - Process(1089.547) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 04:10:11 PM - Process(1089.547) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 04:10:48 PM - Process(1089.549) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 04:10:48 PM - Process(1089.549) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 05:04:34 PM - Process(1089.578) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 05:04:34 PM - Process(1089.578) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 05:04:41 PM - Process(1089.579) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/09/2016 05:04:41 PM - Process(1089.579) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/09/2016 10:38:16 PM - Process(1089.582) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/09/2016 10:38:16 PM - Process(1089.582) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/09/2016 10:38:49 PM - Process(1089.583) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.118).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.118) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/09/2016 10:38:49 PM - Process(1089.583) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/09/2016 10:39:29 PM - Process(1089.584) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/09/2016 10:39:29 PM - Process(1089.584) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/10/2016 04:06:28 AM - Process(1089.585) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/10/2016 04:06:28 AM - Process(1089.585) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/10/2016 04:07:02 AM - Process(1089.586) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.118).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.118) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/10/2016 04:07:02 AM - Process(1089.586) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/10/2016 04:08:14 AM - Process(1089.587) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/10/2016 04:08:14 AM - Process(1089.587) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/10/2016 04:42:19 PM - Process(32069.10589) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/10/2016 06:30:29 PM - Process(1089.580) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/10/2016 06:30:29 PM - Process(1089.580) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/10/2016 06:30:31 PM - Process(1089.581) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/10/2016 06:30:31 PM - Process(1089.581) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/11/2016 09:30:01 AM - Process(1089.590) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/11/2016 06:55:02 PM - Process(1089.590) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/11/2016 06:55:02 PM - Process(1089.590) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/11/2016 07:30:30 PM - Process(1089.588) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/11/2016 07:30:30 PM - Process(1089.588) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/11/2016 07:30:32 PM - Process(1089.589) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/11/2016 07:30:32 PM - Process(1089.589) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/12/2016 09:30:01 AM - Process(1089.593) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/12/2016 06:55:02 PM - Process(1089.593) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/12/2016 06:55:02 PM - Process(1089.593) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/12/2016 07:30:28 PM - Process(1089.591) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/12/2016 07:30:28 PM - Process(1089.591) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/12/2016 07:30:30 PM - Process(1089.592) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/12/2016 07:30:30 PM - Process(1089.592) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/13/2016 09:30:00 AM - Process(1089.596) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/13/2016 06:55:02 PM - Process(1089.596) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/13/2016 06:55:02 PM - Process(1089.596) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/13/2016 07:30:29 PM - Process(1089.594) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/13/2016 07:30:29 PM - Process(1089.594) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/13/2016 07:30:30 PM - Process(1089.595) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/13/2016 07:30:30 PM - Process(1089.595) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/14/2016 09:30:00 AM - Process(1089.599) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/14/2016 06:55:02 PM - Process(1089.599) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/14/2016 06:55:02 PM - Process(1089.599) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/14/2016 07:30:29 PM - Process(1089.597) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/14/2016 07:30:29 PM - Process(1089.597) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/14/2016 07:30:31 PM - Process(1089.598) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/14/2016 07:30:31 PM - Process(1089.598) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/15/2016 09:30:00 AM - Process(1089.602) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/15/2016 06:55:02 PM - Process(1089.602) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/15/2016 06:55:02 PM - Process(1089.602) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/16/2016 10:42:49 PM - Process(1089.603) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.152)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.152)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/16/2016 10:42:49 PM - Process(1089.603) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/16/2016 10:43:16 PM - Process(1089.604) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.152).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.152) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/16/2016 10:43:16 PM - Process(1089.604) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/16/2016 10:43:40 PM - Process(1089.605) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.152)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.152)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/16/2016 10:43:40 PM - Process(1089.605) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/17/2016 04:05:56 AM - Process(1089.606) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/17/2016 04:05:56 AM - Process(1089.606) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/17/2016 04:06:26 AM - Process(1089.607) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.118).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.118) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/17/2016 04:06:26 AM - Process(1089.607) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/17/2016 04:07:52 AM - Process(1089.608) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/17/2016 04:07:52 AM - Process(1089.608) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/17/2016 06:30:29 PM - Process(1089.600) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/17/2016 06:30:29 PM - Process(1089.600) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/17/2016 06:30:31 PM - Process(1089.601) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/17/2016 06:30:31 PM - Process(1089.601) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/18/2016 09:30:00 AM - Process(1089.611) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/18/2016 06:55:02 PM - Process(1089.611) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/18/2016 06:55:02 PM - Process(1089.611) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/18/2016 07:30:29 PM - Process(1089.609) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/18/2016 07:30:29 PM - Process(1089.609) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/18/2016 07:30:31 PM - Process(1089.610) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/18/2016 07:30:31 PM - Process(1089.610) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/19/2016 09:30:01 AM - Process(1089.614) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/19/2016 06:55:02 PM - Process(1089.614) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/19/2016 06:55:02 PM - Process(1089.614) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/19/2016 07:30:29 PM - Process(1089.612) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/19/2016 07:30:29 PM - Process(1089.612) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/19/2016 07:30:30 PM - Process(1089.613) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/19/2016 07:30:30 PM - Process(1089.613) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/20/2016 09:30:01 AM - Process(1089.617) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/20/2016 06:55:02 PM - Process(1089.617) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/20/2016 06:55:02 PM - Process(1089.617) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/20/2016 07:30:29 PM - Process(1089.615) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/20/2016 07:30:29 PM - Process(1089.615) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/20/2016 07:30:31 PM - Process(1089.616) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/20/2016 07:30:31 PM - Process(1089.616) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/21/2016 09:30:00 AM - Process(1089.620) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/21/2016 06:55:02 PM - Process(1089.620) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/21/2016 06:55:02 PM - Process(1089.620) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/21/2016 07:30:29 PM - Process(1089.618) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/21/2016 07:30:29 PM - Process(1089.618) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/21/2016 07:30:31 PM - Process(1089.619) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/21/2016 07:30:31 PM - Process(1089.619) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/22/2016 09:30:00 AM - Process(1089.623) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/22/2016 06:55:02 PM - Process(1089.623) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/22/2016 06:55:02 PM - Process(1089.623) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 08:21:49 AM - Process(1089.621) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 08:21:49 AM - Process(1089.621) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 08:21:50 AM - Process(1089.624) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 08:21:50 AM - Process(1089.624) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 08:21:53 AM - Process(1089.622) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 08:21:53 AM - Process(1089.622) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 08:21:53 AM - Process(1089.625) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 08:21:53 AM - Process(1089.625) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 09:08:08 AM - Process(1120.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NSDQ.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/23/2016 09:08:08 AM - Process(1120.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 09:08:14 AM - Process(31579.1) User(phlxbo) Program(amqrcmla)
+AMQ9533: Channel 'NOBO.LNX.TO.OCCB2BP' is not currently active.
+
+EXPLANATION:
+The channel was not stopped because it was not currently active. If attempting
+to stop a specific instance of a channel by connection name or by remote queue
+manager name this message indicates that the specified instance of the channel
+is not running.
+ACTION:
+None.
+----- amqrcmsa.c : 2103 -------------------------------------------------------
+04/23/2016 09:08:34 AM - Process(31742.1) User(phlxbo) Program(amqrcmla)
+AMQ9533: Channel 'PRODTRADE.TO.NSDQ' is not currently active.
+
+EXPLANATION:
+The channel was not stopped because it was not currently active. If attempting
+to stop a specific instance of a channel by connection name or by remote queue
+manager name this message indicates that the specified instance of the channel
+is not running.
+ACTION:
+None.
+----- amqrcmsa.c : 2103 -------------------------------------------------------
+04/23/2016 10:09:23 AM - Process(971.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 10:09:23 AM - Process(1089.630) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 10:11:36 AM - Process(2306.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:39:24 AM - Process(971.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NOBO.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/23/2016 11:39:24 AM - Process(971.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:39:28 AM - Process(2306.1) User(phlxbo) Program(runmqchl)
+AMQ9528: User requested closure of channel 'NSDQ.LNX.TO.OCCB2BP'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/23/2016 11:39:28 AM - Process(2306.1) User(phlxbo) Program(runmqchl)
+AMQ9001: Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:40:53 AM - Process(32069.11841) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:40:58 AM - Process(32069.11841) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:41:13 AM - Process(32069.11842) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:41:27 AM - Process(1089.630) User(phlxbo) Program(amqrmppa)
+AMQ9528: User requested closure of channel 'PRODTRADE.TO.NSDQ'.
+
+EXPLANATION:
+The channel is closing because of a request by the user.
+ACTION:
+None.
+----- amqrmssa.c : 2668 -------------------------------------------------------
+04/23/2016 11:41:27 AM - Process(1089.630) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 11:41:37 AM - Process(1089.631) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:41:37 AM - Process(1089.631) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:42:37 AM - Process(1089.632) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:42:37 AM - Process(1089.632) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:43:37 AM - Process(1089.633) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:43:37 AM - Process(1089.633) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:44:37 AM - Process(1089.634) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:44:37 AM - Process(1089.634) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:45:37 AM - Process(1089.635) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:45:37 AM - Process(1089.635) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:46:38 AM - Process(1089.636) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:46:38 AM - Process(1089.636) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:47:37 AM - Process(1089.637) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:47:37 AM - Process(1089.637) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:48:37 AM - Process(1089.638) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:48:37 AM - Process(1089.638) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:49:37 AM - Process(1089.639) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:49:37 AM - Process(1089.639) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 11:50:37 AM - Process(1089.640) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 11:50:37 AM - Process(1089.640) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 12:10:37 PM - Process(1089.641) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 12:10:37 PM - Process(1089.641) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 12:30:37 PM - Process(1089.642) User(phlxbo) Program(amqrmppa)
+AMQ9534: Channel 'PRODTRADE.TO.NSDQ' is currently not enabled.
+
+EXPLANATION:
+The channel program ended because the channel is currently not enabled.
+ACTION:
+Issue the START CHANNEL command to re-enable the channel.
+----- amqrcsia.c : 1044 -------------------------------------------------------
+04/23/2016 12:30:37 PM - Process(1089.642) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'PRODTRADE.TO.NSDQ' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'PRODTRADE.TO.NSDQ' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 12:39:11 PM - Process(1089.626) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 12:39:11 PM - Process(1089.626) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 12:39:43 PM - Process(1089.627) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 12:39:43 PM - Process(1089.627) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 12:43:26 PM - Process(32069.11856) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 12:43:32 PM - Process(32069.11856) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 12:43:38 PM - Process(32069.11856) User(phlxbo) Program(amqzlaa0)
+AMQ8023: WebSphere MQ channel reset.
+
+EXPLANATION:
+Channel '' has been reset, the new sequence number of the channel is 1.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 12:43:44 PM - Process(23972.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NOBO.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 12:43:52 PM - Process(24012.1) User(phlxbo) Program(runmqchl)
+AMQ9002: Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+
+EXPLANATION:
+Channel 'NSDQ.LNX.TO.OCCB2BP' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 12:50:38 PM - Process(1089.643) User(phlxbo) Program(amqrmppa)
+AMQ9002: Channel 'PRODTRADE.TO.NSDQ' is starting.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' is starting.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 01:00:08 PM - Process(1089.628) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 01:00:08 PM - Process(1089.628) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 01:00:09 PM - Process(1089.629) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 01:00:09 PM - Process(1089.629) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 02:30:39 PM - Process(1089.643) User(phlxbo) Program(amqrmppa)
+AMQ9545: Disconnect interval expired.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' closed because no messages arrived on the
+transmission queue within the disconnect interval period.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 02:30:39 PM - Process(1089.643) User(phlxbo) Program(amqrmppa)
+AMQ9001: Channel 'PRODTRADE.TO.NSDQ' ended normally.
+
+EXPLANATION:
+Channel 'PRODTRADE.TO.NSDQ' ended normally.
+ACTION:
+None.
+-------------------------------------------------------------------------------
+04/23/2016 03:01:05 PM - Process(1089.644) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 03:01:05 PM - Process(1089.644) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 03:01:06 PM - Process(1089.645) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.22)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.22)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 03:01:06 PM - Process(1089.645) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 03:01:15 PM - Process(1089.646) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 03:01:15 PM - Process(1089.646) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 03:01:15 PM - Process(1089.647) User(phlxbo) Program(amqrmppa)
+AMQ9209: Connection to host '206 (206.200.105.46)' closed.
+
+EXPLANATION:
+An error occurred receiving data from '206 (206.200.105.46)' over TCP/IP.  The
+connection to the remote host has unexpectedly terminated.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3396 -------------------------------------------------------
+04/23/2016 03:01:15 PM - Process(1089.647) User(phlxbo) Program(amqrmppa)
+AMQ9999: Channel program ended abnormally.
+
+EXPLANATION:
+Channel program 'SYSTEM.DEF.SVRCONN' ended abnormally.
+ACTION:
+Look at previous error messages for channel program 'SYSTEM.DEF.SVRCONN' in the
+error files to determine the cause of the failure.
+----- amqrmrsa.c : 506 --------------------------------------------------------
+04/23/2016 10:39:48 PM - Process(1089.652) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.152)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.152)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/23/2016 10:39:48 PM - Process(1089.652) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/23/2016 10:40:15 PM - Process(1089.653) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.152).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.152) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/23/2016 10:40:15 PM - Process(1089.653) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/23/2016 10:41:26 PM - Process(1089.654) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.152)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.152)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/23/2016 10:41:26 PM - Process(1089.654) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/24/2016 04:06:24 AM - Process(1089.655) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/24/2016 04:06:24 AM - Process(1089.655) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/24/2016 04:06:52 AM - Process(1089.656) User(phlxbo) Program(amqrmppa)
+AMQ9208: Error on receive from host 206 (206.200.100.118).
+
+EXPLANATION:
+An error occurred receiving data from 206 (206.200.100.118) over TCP/IP. This
+may be due to a communications failure.
+ACTION:
+The return code from the TCP/IP (read) call was 104 (X'68'). Record these
+values and tell the systems administrator.
+----- amqccita.c : 3357 -------------------------------------------------------
+04/24/2016 04:06:52 AM - Process(1089.656) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
+04/24/2016 04:08:01 AM - Process(1089.657) User(phlxbo) Program(amqrmppa)
+AMQ9207: The data received from host '206 (206.200.100.118)' is not valid.
+
+EXPLANATION:
+Incorrect data format received from host '206 (206.200.100.118)' over TCP/IP.
+It may be that an unknown host is attempting to send data. An FFST file has
+been generated containing the invalid data received.
+ACTION:
+Tell the systems administrator.
+----- amqccita.c : 3539 -------------------------------------------------------
+04/24/2016 04:08:01 AM - Process(1089.657) User(phlxbo) Program(amqrmppa)
+AMQ9492: The TCP/IP responder program encountered an error.
+
+EXPLANATION:
+The responder program was started but detected an error.
+ACTION:
+Look at previous error messages in the error files to determine the error
+encountered by the responder program.
+----- amqrmrsa.c : 497 --------------------------------------------------------
