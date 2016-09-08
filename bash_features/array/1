@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo $#
+function foo() {
+  echo ${!#}
+}
+
+# declare an array
+array=(one two three)
+
+if [[ ${#array[@]} == 3 ]]; then
+  echo "array has three elements"
+fi
+
+foo array

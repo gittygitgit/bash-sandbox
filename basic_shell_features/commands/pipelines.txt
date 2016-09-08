@@ -1,0 +1,6 @@
+Sequence of one or more simple commands separated by one of the control operators '|' or '|&'
+
+Previous command sends output to next.
+
+Output connection occurs before any command redirection.
+

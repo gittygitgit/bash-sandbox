@@ -1,0 +1,8 @@
+What?
+Delimit command-arguments.
+
+Why?
+Trigger execution of a command and arguments.
+
+Examples are a newline or one of the following: ‘||’, ‘&&’, ‘&’, ‘;’, ‘;;’, ‘|’, ‘|&’, ‘(’, or ‘)’.
+
