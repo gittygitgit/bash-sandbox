@@ -1,0 +1,3 @@
+A file descriptor is an abstract handle used to refer to an input/output source.
+
+
