@@ -1,4 +1,0 @@
-Filter and report writer
-
-pattern {action}
-
